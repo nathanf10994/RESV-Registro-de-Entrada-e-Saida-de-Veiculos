@@ -302,5 +302,3 @@ CREATE TRIGGER tg_somavaga
                 
 		END \\
 DELIMITER ;	
-    
-
